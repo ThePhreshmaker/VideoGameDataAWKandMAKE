@@ -33,8 +33,13 @@ WINDOWS INSTRUCTIONS: ***WARNING*** This file is meant to be run in UNIX-like sy
 If you are a windows user, it is recommended to ssh into a linux machine enviornment or use a runtime enviornment such as Cygwin to emulate UNIX system enviornments natively on Windows. If either of these options are available, then refer to MAC OS/ LINUX instrutions located above.
 
 Class Informtaion:
+
+
 School: CUNY - Brooklyn College
+
 Class: CISC 3140 Design and Implementation of Large Scale Web Applications 
+
 Year: Fall 2021
+
 Major: Computer Science
 
