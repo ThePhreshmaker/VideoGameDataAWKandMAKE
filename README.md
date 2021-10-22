@@ -26,6 +26,7 @@ MAC OS/ LINUX instructions:
                     On GitHub in VideoGameDataAWKandMake repository, select green "Code" button and choose "Download Zip" option
                     Unzip files to location of your choice (Recommended to be placed in a folder on Desktop for ease. (i.e. Desktop/Lab 3)
                     Verify files have been sucessfully unzipped in folder
+                    ***It is recommended to rename the file directory on your desktop to something simpler to aid in navigation in terminal***
                     Open terminal/CLI
                     username@name-Mac ~ % cd Desktop/"Lab 3"
                     username@name-Mac Lab 3 % make
