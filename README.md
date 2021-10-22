@@ -12,10 +12,12 @@ MAC OS/ LINUX instructions:
 -In the terminal run : make
 -Report will generate in terminal/CLI
   Example on Mac OS:
-                    *******Download VGData.awk & Makefile into "Lab 3" directory located on Desktop*******
+  
+                    *******Download VGData.awk & Makefile into "Lab 3" directory located on Desktop******   
                     Open terminal/CLI
                     username@name-Mac ~ % cd Desktop/"Lab 3"
                     username@name-Mac Lab 3 % make
+                    
                     ================= Top Selling Video Games for each Year 1980 - 2016 ==================
                                                    (Platform Specific)
                                                (based on total Global Sales)
