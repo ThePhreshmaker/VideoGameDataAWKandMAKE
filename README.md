@@ -56,6 +56,8 @@ WINDOWS INSTRUCTIONS: ***WARNING*** These files are meant to be run in UNIX-like
 
 If you are a windows user, it is recommended to ssh into a linux machine enviornment or use a virtual runtime enviornment such as CYGWIN to emulate UNIX system enviornments natively on Windows. If either of these options are available, then refer to MAC OS/ LINUX instrutions located above to run your program.
 
+SOURCE DATA FOR CSV FILE: https://www.kaggle.com/gregorut/videogamesales 
+
 Class Informtaion
 
 School: CUNY - Brooklyn College
