@@ -2,11 +2,17 @@
 SHORT DESCRIPTION: Basic AWK program to generate a report of top selling global video games per year from 1980 - 2016. Makefile included to autodownload .csv file and generate report. For CISC 3140 @ CUNY - Brooklyn College
 
 REPOSITORY CONTENTS
+
 -README.md
+
     Contains description of repository/contents, Instructions, Example
+    
 -VGData.awk
+
     AWK language program to generate a report in the terminal from vgsales.csv file 
+    
 -Makefile
+
     Makefile to autorun report in terminal
         Makefile will automatically download vgsales.csv file from another GitHub repository and place in current directory
         Makefile will automatically run awk script in terminal as long as long as you are in the same directory as Makefile & VGData.awk file
