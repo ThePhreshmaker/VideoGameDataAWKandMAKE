@@ -51,6 +51,7 @@ MAC OS/ LINUX instructions:
                     Platform: 2600        	Genre: Shooter         Global Sales (in millions): $4.31
                     ------------------------------------------------------------------------------------
                     *******REPORT CONTINUES*********
+                    ****Full report will be saved in the current directory as a separate text file****
 
 WINDOWS INSTRUCTIONS: ***WARNING*** These files are meant to be run in UNIX-like system enviornments. It is recommended to use a linux machine or Mac OS machine to run these files, unless you are an advanced user that is very familiar with running awk programs in the windows command prompt. The Makefile will also not run directly in windows without advanced manipulation of the file.
 
