@@ -22,6 +22,7 @@ LONG DESCRIPTION: The purpose of this lab (Lab 3) is to gain familiarity with us
 OBJECTIVES: Create an AWK program to generate a report from .csv file and create a makefile to autobuild and execute report in the terminal.
 
 MAC OS/ LINUX instructions:
+
 -Download VGData.awk and Makefile from GitHub repository and place in a directory (recommended to have a new directory on Desktop for ease)
 
 -Open terminal (or whatever CLI (Command Line Interface) you prefer to use)
