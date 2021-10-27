@@ -23,7 +23,9 @@ OBJECTIVES: Create an AWK program to generate a report from .csv file and create
 
 MAC OS/ LINUX instructions:
 
--Download VGData.awk and Makefile from GitHub repository and place in a directory (recommended to have a new directory on Desktop for ease)
+-Download VideoGameDataAWKandMake.zip file from GitHub
+
+-Extract contents of zip file to a directory of your choice
 
 -Open terminal (or whatever CLI (Command Line Interface) you prefer to use)
 
