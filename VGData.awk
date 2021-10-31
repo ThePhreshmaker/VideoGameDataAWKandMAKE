@@ -1,3 +1,8 @@
+#Awk Program that will generate a report on the top selling video game for each year from 1980 - 2016 according to provided dataset
+#Program will also provide a total sales figure for each year - according to the dataset
+#A report will be generated both in the terminal (via this AWK file) and in the file directory (generated via Makefile)
+#Author: Shawn Philipps
+
 BEGIN{
 	#use a comma as a field separator
 	FS = ","
@@ -32,7 +37,7 @@ BEGIN{
 				videoGameGenre[i] = $5
 				videoGameGlobalSales[i] = $11			  	
 			}
-			#if year is equal to I, sum up Global Sales to give total for year
+			#if year is equal to i, sum up Global Sales to give total for year
 			if($4 == i){
 				totalVGGlobalSales[i] += $11 
 			}
