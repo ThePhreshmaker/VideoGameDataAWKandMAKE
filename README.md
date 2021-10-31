@@ -17,6 +17,11 @@ REPOSITORY CONTENTS
         Makefile will automatically download vgsales.csv file from another GitHub repository and place in current directory
         Makefile will automatically run awk script in terminal as long as long as you are in the same directory as Makefile & VGData.awk file
 
+-data directory
+    
+    Contains vgsales.csv file
+        This file is automatically downloaded via the Makefile, therefore this is included only to keep all data in the directory
+
 LONG DESCRIPTION: The purpose of this lab (Lab 3) is to gain familiarity with using an online repository (GitHub) to manange files between different users. Additionally, this lab will use AWK programming language to generate a report in the terminal from data inside a .csv file. A Makefile will be included in the repository to allow for easy automated building of the project. The Group portion will require each group member to share their repository links, read each repository Readme file for instructions on how to run the program. Each group member will evaluate each members repository with a evaluation sheet provided by the professor.
 
 OBJECTIVES: Create an AWK program to generate a report from .csv file and create a makefile to autobuild and execute report in the terminal.
@@ -61,6 +66,16 @@ WINDOWS INSTRUCTIONS: ***WARNING*** These files are meant to be run in UNIX-like
 If you are a windows user, it is recommended to ssh into a linux machine enviornment or use a virtual runtime enviornment such as CYGWIN to emulate UNIX system enviornments natively on Windows. If either of these options are available, then refer to MAC OS/ LINUX instrutions located above to run your program.
 
 SOURCE DATA FOR CSV FILE: https://www.kaggle.com/gregorut/videogamesales 
+
+TOOLS USED AND BREIF DESCRIPTION
+
+-AWK Programming language
+
+    Data driven scripting language designed for text processing and generally used for data extraction and reporting. Generally meant to be used with UNIX and UNIX like systems
+
+-Make GNU
+
+    Make is a build automation tool used to build executable programs or libraries from a files source code. Generally made for UNIX or UNIX like systems; however, makefiles can be run on Windows with appropriate tools and knowledge.
 
 Class Informtaion
 
