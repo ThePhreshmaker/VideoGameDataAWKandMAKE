@@ -63,7 +63,7 @@ MAC OS/ LINUX instructions:
 
 WINDOWS INSTRUCTIONS: ***WARNING*** These files are meant to be run in UNIX-like system enviornments. It is recommended to use a linux machine or Mac OS machine to run these files, unless you are an advanced user that is very familiar with running awk programs in the windows command prompt. The Makefile will also not run directly in windows without advanced manipulation of the file.
 
-If you are a windows user, it is recommended to ssh into a linux machine enviornment or use a virtual runtime enviornment such as CYGWIN to emulate UNIX system enviornments natively on Windows. If either of these options are available, then refer to MAC OS/ LINUX instrutions located above to run your program.
+If you are a windows user, it is recommended to ssh into a linux machine enviornment or use a virtual runtime enviornment such as CYGWIN to emulate UNIX system enviornments natively on Windows. If either of these options are available, then refer to MAC OS/ LINUX instructions located above to run your program.
 
 SOURCE DATA FOR CSV FILE: https://www.kaggle.com/gregorut/videogamesales 
 
