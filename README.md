@@ -26,7 +26,7 @@ LONG DESCRIPTION: The purpose of this lab (Lab 3) is to gain familiarity with us
 
 OBJECTIVES: Create an AWK program to generate a report from .csv file and create a makefile to autobuild and execute report in the terminal.
 
-#Installation Instructions
+# Installation Instructions
 
 MAC OS/ LINUX instructions:
 
